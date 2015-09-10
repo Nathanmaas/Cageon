@@ -1,5 +1,55 @@
+
+body{
+  font-family: cabin;
+  background-image: url(https://wallpaperscraft.com/image/nicolas_cage_texture_portrait_face_58062_1920x1080.jpg);
+  background-size; cover;
+  background-color: rgba(300, 300, 300, .8);
+  background-blend-mode: color;
+  margin: 0 auto;
+  padding: 0;
+}*/
+
+body, a, a:hover { cursor:url(http://media.tumblr.com/255ebd97998b716b26e90f728da65f55/tumblr_inline_mpr5y14fge1r6qyth.png), auto
+}
+
 div {
   font-size: 30px;
+}
+
+.ng-binding{
+  text-align: center;
+}
+
+.ng-scope{
+  margin: 0 auto;
+  width: 680px;
+}
+
+.modal{
+  background-image: url(images/cagebackground.jpg);
+  /*background-color: #EB7252;*/
+}
+.modal-content{
+  background-image: url(images/cagebackground.jpg);
+  background-color: rgba(300, 300, 300, .8);
+  background-blend-mode: color;
+  border-width: 2px;
+  border-color: #6AFFBB;
+}
+
+#modal1text{
+  text-align: center;
+  font-family: cabin;
+  font-color: #EB5D3E;
+}
+
+.gamecontain{
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+
+.toptext{
+  margin-bottom: 50px;
 }
 
 .container {
@@ -61,6 +111,7 @@ div {
 }
 
 .message {
-  width: 660px;
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

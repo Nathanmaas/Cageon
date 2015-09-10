@@ -49,9 +49,9 @@ function Game(tileNames) {
   }
 }
 
-Game.MESSAGE_CLICK = 'Match the Nick Cages!';
+Game.MESSAGE_CLICK = 'Match the Nic Cages!';
 Game.MESSAGE_ONE_MORE = 'Pick one more Cage'
-Game.MESSAGE_MISS = 'Nick Cage believes in you!';
+Game.MESSAGE_MISS = 'Nic Cage believes in you!';
 Game.MESSAGE_MATCH = 'Hallelujah! Cage On';
 Game.MESSAGE_WON = 'Nic Cage Flippin Loves You!!';
 
